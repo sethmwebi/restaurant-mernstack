@@ -1,0 +1,11 @@
+{
+  "name": "restaurant-tutorial",
+  "version": "1.0.0",
+  "description": "Restaurant application using mern stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seth mwebi",
+  "license": "MIT"
+}
